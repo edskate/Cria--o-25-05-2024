@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-shadow: 1px 1px 1px red;
+    margin: 20px 0 0 20px;
+    font-size: 30px;
+}
+h1,h2:hover{
+    color: red;
+    text-shadow: 1px 1px 1px white;
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
