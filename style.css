@@ -1,5 +1,8 @@
 body{
-    background-color: black;
+    background-color: rgb(0, 0, 0); 
+    margin: 50px;
+    
+
 }
 h1{
     color: white;
@@ -19,4 +22,20 @@ h3{
 }
 li{
     color: white;
+}
+img{
+    border: 3px solid #00ffff;
+}
+hr{
+    color: #ffff00;
+    width: 600px;
+}
+b{
+    color: red;
+    text-shadow: -1px 1px 1px #ffff00;
+    font-size: 20px;
+}
+em{
+    color: #00ff40;
+    text-shadow:  1px 1px 1px rgb(0, 0, 0);
 }
